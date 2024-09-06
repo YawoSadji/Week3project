@@ -106,6 +106,7 @@ body {
     flex-direction: row;
     justify-content: center;
     border: 2px solid beige;
+    box-shadow: 4px 2px 2px rgb(154, 142, 165);
     border-radius: 20px;
     background-color: rgba(0, 0, 0, 0.6);
  }
